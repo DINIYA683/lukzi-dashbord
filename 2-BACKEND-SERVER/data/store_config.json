@@ -1,0 +1,278 @@
+{
+  "announcement": "OUR WEBSITE RELALE",
+  "walletAddress": "TXx9LukziGangTRC20MerchantVault7712Xk99A",
+  "bankDetails": "8009214492 - Commercial Bank (LUKZI GANG)",
+  "ezCashDetails": "0771234567 - Dialog eZ Cash (LUKZI GANG)",
+  "products": [
+    {
+      "id": "internal-panel",
+      "name": "INTERNAL PANEL",
+      "version": "v4.0",
+      "price": "1500",
+      "priceDay": "400",
+      "price3Days": "750",
+      "price7Days": "1100",
+      "currency": "LKR",
+      "duration": "/ Month",
+      "status": "AVAILABLE",
+      "desc": "Auto headshot, Full ESP සහ 360° tracking සහිත 100% ආරක්ෂිත (Anti-ban) ටූල් එකකි. No fake damage සමඟින් ඕනෑම character කෙනෙකුට ගැලපේ",
+      "specs": "ANTI BAN, ESP, NO FAKE DAMAGE",
+      "image": "internal_panel.jpg",
+      "badgeIcon": "fas fa-shield-halved",
+      "downloadUrl": "https://www.mediafire.com/file/twc1rr9y4y6bbhk/BlueStacks_App_Player_v5.22.130.1019.exe/file",
+      "plans": [
+        {
+          "name": "1 Day",
+          "duration": "1 Day",
+          "price": "400",
+          "badge": "TRIAL"
+        },
+        {
+          "name": "3 Days",
+          "duration": "3 Days",
+          "price": "750",
+          "badge": "WEEKEND"
+        },
+        {
+          "name": "7 Days",
+          "duration": "7 Days",
+          "price": "1100",
+          "badge": "POPULAR"
+        },
+        {
+          "name": "1 Month",
+          "duration": "1 Month",
+          "price": "1500",
+          "badge": "BEST VALUE"
+        }
+      ]
+    },
+    {
+      "id": "mouse-bot",
+      "name": "MOUSEBOT AI",
+      "version": "v1.7",
+      "price": "2000",
+      "priceDay": "500",
+      "price3Days": "1000",
+      "price7Days": "1500",
+      "currency": "LKR",
+      "duration": "/ Month",
+      "status": "AVAILABLE",
+      "desc": "AI තාක්ෂණයෙන් ක්‍රියාත්මක වන 100% ආරක්ෂිත (Anti-ban) Hardware-emulated Mouse Bot එකකි. Humanized aim assist සහ smooth recoil පාලනය සමඟින් සාමාන්‍ය ක්‍රීඩකයෙකු ලෙසම ස්වාභාවිකව Aim කරගත හැක.",
+      "specs": "Human Aim, Auto Recoil",
+      "image": "mouse_bot.jpg",
+      "badgeIcon": "fas fa-robot",
+      "downloadUrl": "https://www.youtube.com/watch?v=GkS40J9uVeE",
+      "plans": [
+        {
+          "name": "1 Day",
+          "duration": "1 Day",
+          "price": "500",
+          "badge": "TRIAL"
+        },
+        {
+          "name": "3 Days",
+          "duration": "3 Days",
+          "price": "1000",
+          "badge": "WEEKEND"
+        },
+        {
+          "name": "7 Days",
+          "duration": "7 Days",
+          "price": "1500",
+          "badge": "POPULAR"
+        },
+        {
+          "name": "1 Month",
+          "duration": "1 Month",
+          "price": "2000",
+          "badge": "BEST VALUE"
+        }
+      ]
+    },
+    {
+      "id": "uid-bypass",
+      "name": "UID BYPASS",
+      "version": "v2.0",
+      "price": "2000",
+      "priceDay": "500",
+      "price3Days": "1000",
+      "price7Days": "1500",
+      "currency": "LKR",
+      "duration": "/ Month",
+      "status": "UPDATING",
+      "desc": "PC එකෙන් ප්ලේ කළත් Mobile ක්‍රීඩකයන් සමඟ පමණක් මැච් වෙන 100% ආරක්ෂිත (Anti-ban) ටූල් එකකි. කිසිදු අවදානමකින් තොරව Main අකවුන්ට් එකටම භාවිතා කළ හැක.",
+      "specs": "HWID Spoofer, 100% Main ID Safe",
+      "image": "uid bypass.png",
+      "badgeIcon": "fas fa-fingerprint",
+      "downloadUrl": "https://web.whatsapp.com/",
+      "plans": [
+        {
+          "name": "1 Day",
+          "duration": "1 Day",
+          "price": "500",
+          "badge": "TRIAL"
+        },
+        {
+          "name": "3 Days",
+          "duration": "3 Days",
+          "price": "1000",
+          "badge": "WEEKEND"
+        },
+        {
+          "name": "7 Days",
+          "duration": "7 Days",
+          "price": "1500",
+          "badge": "POPULAR"
+        },
+        {
+          "name": "1 Month",
+          "duration": "1 Month",
+          "price": "2000",
+          "badge": "BEST VALUE"
+        }
+      ]
+    },
+    {
+      "id": "cyber-vpn",
+      "name": "CYBER VPN PRO",
+      "version": "v3.5",
+      "price": "1000",
+      "priceDay": "250",
+      "price3Days": "500",
+      "price7Days": "750",
+      "currency": "LKR",
+      "duration": "/ Month",
+      "status": "AVAILABLE",
+      "desc": "100% High Speed Low Ping Sri Lankan & Gaming Dedicated Server VPN එකකි. IP Bypassing, High Anonymity සහ Zero Log Encryption සමඟින් Gaming & Browsing සඳහාම විශේෂිතයි.",
+      "specs": "LOW PING, ZERO LOGS, DEDICATED IP",
+      "image": "vpn_client.jpg",
+      "badgeIcon": "fas fa-shield-halved",
+      "downloadUrl": "https://www.mediafire.com/file/twc1rr9y4y6bbhk/BlueStacks_App_Player_v5.22.130.1019.exe/file",
+      "plans": [
+        {
+          "name": "1 Day",
+          "duration": "1 Day",
+          "price": "250",
+          "badge": "TRIAL"
+        },
+        {
+          "name": "3 Days",
+          "duration": "3 Days",
+          "price": "500",
+          "badge": "WEEKEND"
+        },
+        {
+          "name": "7 Days",
+          "duration": "7 Days",
+          "price": "750",
+          "badge": "POPULAR"
+        },
+        {
+          "name": "1 Month",
+          "duration": "1 Month",
+          "price": "1000",
+          "badge": "BEST VALUE"
+        }
+      ]
+    },
+    {
+      "id": "discord-channel",
+      "name": "DISCORD CHANNEL",
+      "version": "CUSTOM",
+      "price": "2500",
+      "priceDay": "750",
+      "price3Days": "1400",
+      "price7Days": "2000",
+      "currency": "LKR",
+      "duration": "/ Server",
+      "status": "AVAILABLE",
+      "desc": "Complete Discord server creation & design with full bot setup, welcome system, auto-mod, and music bots.",
+      "specs": "Complete Design, Bot Setup, Auto Mod",
+      "image": "ChatGPT_Image_Aug_26_2026_07_24_20_AM.png",
+      "badgeIcon": "fab fa-discord",
+      "downloadUrl": "https://www.mediafire.com/file/twc1rr9y4y6bbhk/BlueStacks_App_Player_v5.22.130.1019.exe/file",
+      "plans": [
+        {
+          "name": "1 Day",
+          "duration": "1 Day",
+          "price": "750",
+          "badge": "TRIAL"
+        },
+        {
+          "name": "3 Days",
+          "duration": "3 Days",
+          "price": "1400",
+          "badge": "WEEKEND"
+        },
+        {
+          "name": "7 Days",
+          "duration": "7 Days",
+          "price": "2000",
+          "badge": "POPULAR"
+        },
+        {
+          "name": "1 Server",
+          "duration": "1 Server",
+          "price": "2500",
+          "badge": "BEST VALUE"
+        }
+      ]
+    },
+    {
+      "id": "mobile-optimazer",
+      "name": "MOBILE  OPTIMAZER",
+      "version": "ANDROID",
+      "price": "1500",
+      "priceDay": "700",
+      "price3Days": "",
+      "price7Days": "",
+      "currency": "LKR",
+      "duration": "/ Month",
+      "status": "AVAILABLE",
+      "desc": "Smooth performance & lag-free mobile optimization panel for Android and iOS devices.",
+      "specs": "Mobile Optimized, Regular Updates, Private & Secure",
+      "image": "ChatGPT_Image_Aug_26_2026_02_32_31_PM.png",
+      "badgeIcon": "fas fa-mobile-screen-button",
+      "downloadUrl": "https://www.mediafire.com/file/twc1rr9y4y6bbhk/BlueStacks_App_Player_v5.22.130.1019.exe/file",
+      "plans": [
+        {
+          "name": "7Day",
+          "duration": "7Day",
+          "price": "700",
+          "badge": "WEEKEND"
+        },
+        {
+          "name": "1 Month",
+          "duration": "1 Month",
+          "price": "1500",
+          "badge": "Month"
+        }
+      ]
+    }
+  ],
+  "downloadLinks": {
+    "INTERNAL PANEL": "https://www.mediafire.com/file/twc1rr9y4y6bbhk/BlueStacks_App_Player_v5.22.130.1019.exe/file",
+    "MOUSEBOT AI": "https://www.youtube.com/watch?v=GkS40J9uVeE",
+    "UID BYPASS": "https://web.whatsapp.com/",
+    "CYBER VPN PRO": "https://www.mediafire.com/file/twc1rr9y4y6bbhk/BlueStacks_App_Player_v5.22.130.1019.exe/file",
+    "DISCORD CHANNEL": "https://www.mediafire.com/file/twc1rr9y4y6bbhk/BlueStacks_App_Player_v5.22.130.1019.exe/file",
+    "MOBILE PANELS": "https://www.mediafire.com/file/twc1rr9y4y6bbhk/BlueStacks_App_Player_v5.22.130.1019.exe/file",
+    "ERRORS FIX TOOL": "https://www.mediafire.com/file/twc1rr9y4y6bbhk/BlueStacks_App_Player_v5.22.130.1019.exe/file",
+    "INTERNAL PANEL V4": "https://www.mediafire.com/file/twc1rr9y4y6bbhk/BlueStacks_App_Player_v5.22.130.1019.exe/file",
+    "MOUSEBOT AI V1.7": "https://www.youtube.com/watch?v=GkS40J9uVeE",
+    "UID BYPASS V2.0": "https://web.whatsapp.com/",
+    "internal-panel": "https://www.mediafire.com/file/twc1rr9y4y6bbhk/BlueStacks_App_Player_v5.22.130.1019.exe/file",
+    "mouse-bot": "https://www.youtube.com/watch?v=GkS40J9uVeE",
+    "uid-bypass": "https://web.whatsapp.com/",
+    "cyber-vpn": "https://www.mediafire.com/file/twc1rr9y4y6bbhk/BlueStacks_App_Player_v5.22.130.1019.exe/file",
+    "DISCORD QUEST PLUS": "https://www.mediafire.com/file/twc1rr9y4y6bbhk/BlueStacks_App_Player_v5.22.130.1019.exe/file",
+    "discord-channel": "https://www.mediafire.com/file/twc1rr9y4y6bbhk/BlueStacks_App_Player_v5.22.130.1019.exe/file",
+    "mobile-panel": "https://www.mediafire.com/file/twc1rr9y4y6bbhk/BlueStacks_App_Player_v5.22.130.1019.exe/file",
+    "ERRORS FIX": "https://www.mediafire.com/file/twc1rr9y4y6bbhk/BlueStacks_App_Player_v5.22.130.1019.exe/file",
+    "MOBILE  OPTIMAZER": "https://www.mediafire.com/file/twc1rr9y4y6bbhk/BlueStacks_App_Player_v5.22.130.1019.exe/file"
+  },
+  "announcementCreatedAt": 1788689297628,
+  "announcementExpiresAt": 1788775697628,
+  "announcementTarget": "ALL"
+}

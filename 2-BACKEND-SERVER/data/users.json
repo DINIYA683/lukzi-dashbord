@@ -1,0 +1,15 @@
+[
+  {
+    "id": "USR-ADMIN",
+    "username": "admin",
+    "email": "admin@lukzi.io",
+    "passwordHash": "718d3eb2e1acb72e9f11680f0021a1cf620450b6be4989cc70a276500bab581fbd658cb55521c2c53fe30294e29459834c9776307f813c1e8dc1d21e1a5bbea7",
+    "salt": "4ad2b3ef46dc0ef8eee4852bad97dfd2",
+    "discord": "LukziAdmin#0001",
+    "contact": "LukziAdmin#0001",
+    "role": "ADMINISTRATOR",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=admin",
+    "createdAt": "9/6/2026, 4:29:39 AM",
+    "isAuth": true
+  }
+]

@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: lukzi-store-backend
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: node server.js
+    envVars:
+      - key: PORT
+        value: 5000
+      - key: NODE_ENV
+        value: production
